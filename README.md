@@ -8,7 +8,7 @@ Python, NLTK, scikit-learn, Pydev for Eclipse
 pandas, nltk, textblob, pipeline.
 
 ##Dataset:
-Yelp! academic dataset (can be found at: http://www.yelp.com/dataset_challenge
+Yelp! academic dataset (can be found at: http://www.yelp.com/dataset_challenge)
 
 ##Description:
 
