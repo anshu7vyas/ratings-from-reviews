@@ -1,0 +1,1 @@
+The dataset for this script is available to download at www.yelp.com/dataset_challenge
