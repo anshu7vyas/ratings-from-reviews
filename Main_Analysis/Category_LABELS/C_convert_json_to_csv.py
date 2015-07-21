@@ -24,7 +24,7 @@ def convert(x):
             del ob[k]
     return ob
 
-"""Labeling the data into 2 categories - Positive and Negative"""
+"""Labeling the data into 3 categories - Positive, Neutral and Negative"""
 def labelData(values):
     if values == 5 or values == 4:
         return "positive"
