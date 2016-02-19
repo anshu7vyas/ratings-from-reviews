@@ -11,4 +11,4 @@ pandas, nltk, textblob, pipeline.
 Yelp! academic dataset (can be found at: http://www.yelp.com/dataset_challenge)
 
 ##Description:
-
+Analysis of Yelp! dataset which consists of various datasets such as restaurants, businesses, cities etc. 
